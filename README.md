@@ -1,2 +1,2 @@
 # To-do-App
-To-do-App using javascript
+To-do-App using javascript and tasks are printed to console window...
